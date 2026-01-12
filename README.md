@@ -64,5 +64,3 @@ GPA: 3.68/4.0
 - **LinkedIn:** [linkedin.com/in/arpitha-nagaraj-482343192](https://www.linkedin.com/in/arpitha-nagaraj-482343192/)
 
 ---
-
-*Last Updated: January 2026*
