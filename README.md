@@ -22,6 +22,28 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 💼 Featured Projects
 
+### 🛒 Full-Stack Retail Application — Cloud-Native E-Commerce Platform
+
+A cloud-native e-commerce platform built with a modern React frontend and Express.js backend. The application supports product search, cart management, and order processing through scalable RESTful APIs and fault-tolerant database interactions. Deployed on AWS Elastic Beanstalk with production-ready configuration, environment management, and cloud hosting infrastructure.
+
+**Tech Stack:** React (Vite), Node.js, Express.js, Sequelize ORM, MySQL, AWS Elastic Beanstalk, EC2
+
+---
+
+### 💬 Real-Time Chat Backend — Distributed Messaging System
+
+A scalable distributed chat backend designed to support real-time messaging and user management. The system leverages Apache Kafka for asynchronous event processing, message persistence, and fault-tolerant communication between services. Performance optimizations in MySQL and concurrency handling enabled low-latency message delivery and improved query execution under load.
+
+**Tech Stack:** Java, Spring Boot, Apache Kafka, MySQL, REST APIs, Distributed Systems
+
+---
+
+### 🤖 RAG-Based Question Answering System — AI-Powered Document Intelligence
+
+A production-ready Retrieval-Augmented Generation (RAG) application that enables users to ask natural language questions over PDF documents. The system generates vector embeddings using all-MiniLM-L6-v2, stores them in FAISS for semantic retrieval, and leverages a Llama-based LLM to generate context-aware responses grounded in retrieved content. FAISS index persistence significantly reduced query latency and improved overall performance.
+
+**Tech Stack:** Python, LangChain, FAISS, Sentence Transformers, Llama, RAG, Vector Databases
+
 ### 🔐 Edu-Genius — AI-Driven Learning Platform
 
 A full-stack education assistant built with MERN (MongoDB, Express, React, Node.js) and a custom LLM backend. The platform provides personalized tutoring and quiz generation for interactive learning experiences. The application implements JWT-based authentication with secure session management, persistent chat history storage, rate limiting to prevent API abuse, and CORS security protocols. The responsive Material-UI interface supports real-time learning interactions through WebSocket connections, ensuring users have a seamless educational experience across all devices.
