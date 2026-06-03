@@ -42,6 +42,8 @@ A scalable distributed chat backend designed to support real-time messaging and 
 
 A production-ready Retrieval-Augmented Generation (RAG) application that enables users to ask natural language questions over PDF documents. The system generates vector embeddings using all-MiniLM-L6-v2, stores them in FAISS for semantic retrieval, and leverages a Llama-based LLM to generate context-aware responses grounded in retrieved content. FAISS index persistence significantly reduced query latency and improved overall performance.
 
+---
+
 **Tech Stack:** Python, LangChain, FAISS, Sentence Transformers, Llama, RAG, Vector Databases
 
 ### 🔐 Edu-Genius — AI-Driven Learning Platform
